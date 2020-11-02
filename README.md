@@ -1,1 +1,1 @@
-# vuejs-mixin-timezone-converter
+# Mixin for conversion time to time zone by state
